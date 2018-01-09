@@ -8,6 +8,9 @@ Within this directory there is a csv containing all posts made to a specific set
 
 We will be using NLP (Natural Language Techniques) to categorigize Python related sub-reddit forums based on on the comments on posts themselves.
 
-### We will be using the following:
+### We will be conducting the following with this analysis:
+- EDA
+- Data cleansing
 - CountVectorizer Model
-- Truncuated S
+- Truncated SVD (Dimensionality Reduction)
+- Classification Models
